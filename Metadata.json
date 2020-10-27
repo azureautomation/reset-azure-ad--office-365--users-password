@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 43770,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/reset-azure-ad-(office-365)-users-password/master/Reset-O365UserPassword.graphrunbook",
+    "DownloadCount": 1556,
+    "Id": "Reset-Azure-AD-Office-365-ac06bf2e",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 122,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-6-26T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "This runbook takes the users name (financeuser@contoso.com) and a credential asset name that has access to Azure AD to reset the users password. It then resets the password and writes out the users alternative email address and the temporary password.",
+    "Title": "Reset Azure AD (Office 365) users password",
+    "UpdatedDate": "2016-6-26T00:00:00",
+    "Url": "https://github.com/azureautomation/reset-azure-ad-(office-365)-users-password",
+    "UserTags": "Office 365, Microsoft Azure active directory, GraphicalPS"
+}
